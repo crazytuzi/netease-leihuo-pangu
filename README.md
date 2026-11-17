@@ -2,9 +2,9 @@
 
 ![商标与版权 / Trademark & Copyright](TrademarkCopyright.jpg)
 
-<span style="font-size:14pt;color:#FF0000;font-weight:bold">版权归网易雷火所有。本仓库仅作个人研究与技术存档，不用于任何商业用途，亦不代表官方任何立场。</span>
+<font color="#FF0000" size="4"><b>版权归网易雷火所有。本仓库仅作个人研究与技术存档，不用于任何商业用途，亦不代表官方任何立场。</b></font>
 
-<span style="font-size:14pt;color:#FF0000;font-weight:bold">Copyright belongs to NetEase Leihuo. This repository is kept solely for personal research and technical archiving; it is not for any commercial use and does not represent any official position.</span>
+<font color="#FF0000" size="4"><b>Copyright belongs to NetEase Leihuo. This repository is kept solely for personal research and technical archiving; it is not for any commercial use and does not represent any official position.</b></font>
 
 ---
 
